@@ -1,6 +1,6 @@
 # git_project1
 
-#How to add an  existing local project into github repository
+# How to add an  existing local project into github repository
 ## step1
 get into you project folder and add whatever the files you want to add into that project folder
 
@@ -29,6 +29,7 @@ git commit -m "<<commit message>>"
 create a repository in github account same as in local project directory
 
 ### step 7
+To point git remote url
 git remote add origin <<gitup_repo_url>>
  
  #### verify remote git url
