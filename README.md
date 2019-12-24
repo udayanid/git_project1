@@ -19,7 +19,7 @@ git add <<filename>> or git add .
 git status
 
 ### step 6
-git commit -m "<<commit message>>"
+git commit -m "<<commit messages>>"
 
   #### git config --global user.email "you@example.com"
   #### git config --global user.name "Your Name"
@@ -37,7 +37,8 @@ git remote add origin <<gitup_repo_url>>
  
 ### step 8
 git push origin master
-git push -f origin maste
+
+git push -f origin master
 
 ### step 9
 git fetch origin master
