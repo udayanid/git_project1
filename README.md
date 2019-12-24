@@ -6,6 +6,7 @@ get into you project folder and add whatever the files you want to add into that
 
 ### step2
 git init
+
 --Initialized empty Git repository in <<working_directory>>
 
 ### step 3
