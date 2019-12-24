@@ -13,13 +13,14 @@ git init
 git status
 
 ### step 4
-git add <<filename>> or git add .
+git add "<<filename>>" 
+git add .
 
 ### step 5
 git status
 
 ### step 6
-git commit -m "<<commit messages>>"
+git commit -m "<<commit_messages>>"
 
   #### git config --global user.email "you@example.com"
   #### git config --global user.name "Your Name"
@@ -30,7 +31,8 @@ create a repository in github account same as in local project directory
 
 ### step 7
 To point git remote url
-git remote add origin <<gitup_repo_url>>
+
+git remote add origin "<<gitup_repo_url>>"
  
  #### verify remote git url
  git remote -v
@@ -45,6 +47,7 @@ git fetch origin master
 
 ### step 10 
 to get changes from repository into local project directory
+
 git pull origin master
 
 
