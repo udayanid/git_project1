@@ -1,13 +1,13 @@
 # git_project1
 
-#How to add a existing local project into github repository
+#How to add an  existing local project into github repository
 ##step1
-### step1
-go into you project folder and add whatever the file you want to add into that project folder
+get into you project folder and add whatever the files you want to add into that project folder
 
 ###step2
 git init
 --Initialized empty Git repository in <<working_directory>>
+
 ###step 3
 git status
 
