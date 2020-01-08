@@ -55,3 +55,9 @@ git pull origin master
 
 
 Reference:https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+
+# How to Clone a Git project?
+git clone https://github.com/udayanid/git_project1.git
+
+
