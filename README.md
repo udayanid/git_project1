@@ -60,4 +60,17 @@ Reference:https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 # How to Clone a Git project?
 git clone https://github.com/udayanid/git_project1.git
 
-
+-------------------------------------------------------------------------
+…or create a new repository on the command line
+echo "# Fluorescent-Rest-archetype" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/udayanid/Fluorescent-Rest-archetype.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/udayanid/Fluorescent-Rest-archetype.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
